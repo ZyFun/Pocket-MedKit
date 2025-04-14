@@ -1,58 +1,155 @@
+# Privacy Policy / Политика конфиденциальности
+
+## English Version
+
 **Privacy Policy**
 
-Dmitriy Danilin built the Аптечка в кармане app as a Free app. This SERVICE is provided by Dmitriy Danilin at no cost and is intended for use as is.
+The *Pocket MedKit* app was built by Dmitry Danilin as a free app. This SERVICE is provided by Dmitry Danilin at no cost and is intended for use as is.
 
-This page is used to inform visitors regarding my policies with the collection, use, and disclosure of Personal Information if anyone decided to use my Service.
+This page is used to inform visitors regarding policies with the collection, use, and disclosure of Personal Information for anyone choosing to use the Service.
 
-If you choose to use my Service, then you agree to the collection and use of information in relation to this policy. The Personal Information that I collect is used for providing and improving the Service. I will not use or share your information with anyone except as described in this Privacy Policy.
+By using the Service, you agree to the collection and use of information in accordance with this policy. Personal Information collected is used for providing and improving the Service. It is not shared with anyone except as described in this policy.
 
-The terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, which are accessible at Аптечка в кармане unless otherwise defined in this Privacy Policy.
+Terms used here have the same meanings as in the Terms and Conditions, unless otherwise defined.
 
-**Information Collection and Use**
+### Information Collection and Use
 
-For a better experience, while using our Service, I may require you to provide us with certain personally identifiable information. The information that I request will be retained on your device and is not collected by me in any way.
+To improve the Service, I may ask for personally identifiable information. This data is stored on your device and not collected by me directly.
 
-**Log Data**
+### Log Data
 
-I want to inform you that whenever you use my Service, in a case of an error in the app I collect data and information (through third-party products) on your phone called Log Data. This Log Data may include information such as your device Internet Protocol (“IP”) address, device name, operating system version, the configuration of the app when utilizing my Service, the time and date of your use of the Service, and other statistics.
+In case of an error, I may collect data (via third-party services), such as:
 
-**Cookies**
+- IP address  
+- Device name and model  
+- OS version  
+- App configuration  
+- Timestamp and usage  
+- Other statistics
 
-Cookies are files with a small amount of data that are commonly used as anonymous unique identifiers. These are sent to your browser from the websites that you visit and are stored on your device's internal memory.
+### Analytics
 
-This Service does not use these “cookies” explicitly. However, the app may use third-party code and libraries that use “cookies” to collect information and improve their services. You have the option to either accept or refuse these cookies and know when a cookie is being sent to your device. If you choose to refuse our cookies, you may not be able to use some portions of this Service.
+**Yandex.Metrica** is used for user behavior analysis. It may collect:
 
-**Service Providers**
+- Device model and type  
+- OS version  
+- In-app behavior  
+- Crash reports  
+- IP address (for approximate location)
 
-I may employ third-party companies and individuals due to the following reasons:
+Read more: [Yandex Privacy Policy](https://yandex.com/legal/confidential/)
 
-*   To facilitate our Service;
-*   To provide the Service on our behalf;
-*   To perform Service-related services; or
-*   To assist us in analyzing how our Service is used.
+<!-- You may opt out of data collection through your device settings or by contacting me. -->
 
-I want to inform users of this Service that these third parties have access to their Personal Information. The reason is to perform the tasks assigned to them on our behalf. However, they are obligated not to disclose or use the information for any other purpose.
+### Cookies
 
-**Security**
+The app itself does not use cookies, but third-party services might.
 
-I value your trust in providing us your Personal Information, thus we are striving to use commercially acceptable means of protecting it. But remember that no method of transmission over the internet, or method of electronic storage is 100% secure and reliable, and I cannot guarantee its absolute security.
+### Third-Party Services
 
-**Links to Other Sites**
+May be used for:
 
-This Service may contain links to other sites. If you click on a third-party link, you will be directed to that site. Note that these external sites are not operated by me. Therefore, I strongly advise you to review the Privacy Policy of these websites. I have no control over and assume no responsibility for the content, privacy policies, or practices of any third-party sites or services.
+- Supporting the Service  
+- Providing features  
+- Analyzing usage
 
-**Children’s Privacy**
+They may access Personal Information only for the tasks assigned to them.
 
-I do not knowingly collect personally identifiable information from children. I encourage all children to never submit any personally identifiable information through the Application and/or Services. I encourage parents and legal guardians to monitor their children's Internet usage and to help enforce this Policy by instructing their children never to provide personally identifiable information through the Application and/or Services without their permission. If you have reason to believe that a child has provided personally identifiable information to us through the Application and/or Services, please contact us. You must also be at least 16 years of age to consent to the processing of your personally identifiable information in your country (in some countries we may allow your parent or guardian to do so on your behalf).
+### Security
 
-**Changes to This Privacy Policy**
+I strive to use commercially acceptable means to protect data but cannot guarantee absolute security.
 
-I may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. I will notify you of any changes by posting the new Privacy Policy on this page.
+### Links to Other Sites
 
-This policy is effective as of 2022-10-23
+This Service may contain links to third-party websites. I am not responsible for their content or policies.
 
-**Contact Us**
+### Children's Privacy
 
-If you have any questions or suggestions about my Privacy Policy, do not hesitate to contact me at danilindn@icloud.com.
+I do not knowingly collect personal data from children. If you believe a child has provided such information, please contact me.
 
-This privacy policy page was created at [privacypolicytemplate.net](https://privacypolicytemplate.net) and modified/generated by [App Privacy Policy Generator](https://app-privacy-policy-generator.nisrulz.com/)
+### Changes
+
+Effective date: **2022-10-23**  
+**Last updated:** 2025-04-12
+
+### Contact
+
+If you have any questions: **danilindn@icloud.com**
+
+---
+
+## Русская версия
+
+**Политика конфиденциальности**
+
+Приложение *Аптечка в кармане* было разработано Дмитрием Данилиным как бесплатное приложение. Эта УСЛУГА предоставляется Дмитрием Данилиным безвозмездно и предназначена для использования «как есть».
+
+На этой странице описана моя политика в отношении сбора, использования и раскрытия личной информации пользователей, решивших воспользоваться моей Услугой.
+
+Используя мою Услугу, вы соглашаетесь на сбор и использование информации в соответствии с настоящей Политикой конфиденциальности. Личная информация, которую я собираю, используется исключительно для предоставления и улучшения Услуги. Я не буду использовать и не буду передавать вашу информацию кому-либо, кроме случаев, описанных в настоящей Политике.
+
+Термины, используемые в данной Политике конфиденциальности, имеют то же значение, что и в Условиях использования, если иное не указано отдельно.
+
+### Сбор и использование информации
+
+Для улучшения качества предоставляемой Услуги я могу попросить вас предоставить определённую персонально идентифицируемую информацию. Эта информация сохраняется на вашем устройстве и не собирается мной напрямую.
+
+### Данные журнала
+
+В случае ошибки в приложении я могу собирать данные (через сторонние сервисы), такие как:
+
+- IP-адрес устройства  
+- Название и модель устройства  
+- Версия ОС  
+- Конфигурация приложения  
+- Дата и время использования  
+- Прочая статистика
+
+### Аналитика
+
+Используется **Яндекс.Метрика** для анализа поведения пользователей. Она может собирать:
+
+- Тип и модель устройства  
+- Версия операционной системы  
+- Действия в приложении  
+- Отчёты о сбоях  
+- IP-адрес (для геолокации)
+
+Подробнее: [Политика Яндекса](https://yandex.ru/legal/confidential/)
+
+<!-- Вы можете отключить сбор данных через настройки устройства или связавшись со мной. -->
+
+### Файлы cookie
+
+Приложение напрямую не использует cookie, но сторонние сервисы могут.
+
+### Сторонние сервисы
+
+Могут быть привлечены для:
+
+- Поддержки Услуги  
+- Анализа поведения  
+- Предоставления функциональности
+
+Доступ к данным — строго в рамках их задач.
+
+### Безопасность
+
+Я стараюсь использовать приемлемые средства защиты, но не могу гарантировать абсолютную безопасность.
+
+### Ссылки на другие сайты
+
+Приложение может содержать ссылки на сторонние сайты. Я не несу ответственности за их содержание и политику.
+
+### Конфиденциальность детей
+
+Я не собираю сознательно данные детей. Если вы считаете, что ребёнок предоставил информацию — свяжитесь со мной.
+
+### Изменения
+
+Дата вступления в силу: **2022-10-23**  
+**Последнее обновление:** 2025-04-12
+
+### Контакты
+
+По вопросам: **danilindn@icloud.com**
