@@ -2,8 +2,8 @@
 ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
 ![IOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
 <br/>
-![Target](https://img.shields.io/badge/iOS-15.0-blue)
-![Version](https://img.shields.io/badge/version-1.3.1-blue)
+![Target](https://img.shields.io/badge/iOS-16.0-blue)
+![Version](https://img.shields.io/badge/version-2.0.0-blue)
 <br/>
 ![UIKit](https://img.shields.io/badge/-UIKit-blue)
 ![SwiftUI](https://img.shields.io/badge/-SwiftUI-blue)
